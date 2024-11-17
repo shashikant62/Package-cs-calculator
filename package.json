@@ -1,0 +1,19 @@
+{
+  "name": "cs-calculator",
+  "version": "1.0.0",
+  "description": "calculator use",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashikant62/Package-cs-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashikant62/Package-cs-calculator/issues"
+  },
+  "homepage": "https://github.com/shashikant62/Package-cs-calculator#readme"
+}
